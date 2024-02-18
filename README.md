@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning on **Next, React, Nest, and Cloud**
 
- 💬 I'm Interested in **Website (Full-Stack) and Cloud**
+ 💬 I'm Interested in **Full-Stack Web Development and Cloud**
 
  🔍 **Looking for Collaboration**, interested in teaming up for any project
 
@@ -36,15 +36,19 @@
   </a>
 </div>
 
+<br/>
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwindcss,express,prisma,laravel,electron" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwindcss,express,prisma,laravel,electron,wordpress" />
     <img src="https://skillicons.dev/icons?i=,ts,js,nodejs,python,firebase,mongodb,c,cpp,php,git,docker,kubernetes,gcp,figma" /><br>
 </div>
 
 <br/>
+<br/>
+
 
 <!--
 <div align="center">
