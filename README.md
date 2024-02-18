@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning on **Next, React, Nest, and Cloud**
 
- 💬 I'm Interested in **Website and Cloud**
+ 💬 I'm Interested in **Website (Full-Stack) and Cloud**
 
  🔍 **Looking for Collaboration**, interested in teaming up for any project
 
@@ -36,7 +36,6 @@
   </a>
 </div>
 
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -46,7 +45,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <!--
 <div align="center">
@@ -71,8 +69,6 @@
 </div>
 
 <br/><br/>
-
-<hr/>
 
 <br/>
 
