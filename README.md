@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **upgrading myself :D**
  
- 🌱 I’m currently learning on **Next, React, Nest, and Cloud**
+ 🌱 I’m currently learning on **Next, React, Nest, and LeetCode(coding)**
 
  💬 I'm Interested in **Full-Stack Web Development and Cloud**
 
