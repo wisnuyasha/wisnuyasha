@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wisnuyasha!;" />
 </h1>
 
-<h3 align="center">A <s>Self-Acknowledged</s> Software Engineer (Frontend)</h3>
+<h3 align="center">A Self-Taught Frontend Software Engineer</h3>
 
 <div align="center">
-  I'm a web developer passionate about diving into new technologies and broadening my expertise across cloud and web development. I strive to develop applications that are not just maintainable and scalable, but also adhere to the highest standards of best practices, ensuring a superior developer experience.
+I'm a software engineer passionate about diving into new technologies and sharpening my expertise in frontend development. I aim to develop applications that are not only maintainable and scalable but also adhere to the highest standard of best practices, delivering an exceptional user and developer experience
 </div>
 
 <br/>
