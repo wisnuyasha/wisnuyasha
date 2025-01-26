@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wisnuyasha!;" />
 </h1>
 
-<h3 align="center">A <s>Self-Acknowledged</s> Frontend Web Developer from Surabaya</h3>
+<h3 align="center">A <s>Self-Acknowledged</s> Software Engineer (Frontend)</h3>
 
 <div align="center">
   I'm a web developer passionate about diving into new technologies and broadening my expertise across cloud and web development. I strive to develop applications that are not just maintainable and scalable, but also adhere to the highest standards of best practices, ensuring a superior developer experience.
@@ -16,9 +16,9 @@
  
  🔭 I’m currently working on **upgrading myself :D**
  
- 🌱 I’m currently learning on **Next, React, Nest, and LeetCode(coding)**
+ 🌱 I’m currently learning on **Next, React, and LeetCode(coding)**
 
- 💬 I'm Interested in **Full-Stack Web Development and Cloud**
+ 💬 I'm passionate about **Software Engineering, especially Frontend Development**
 
  🔍 **Looking for Collaboration**, interested in teaming up for any project
 
