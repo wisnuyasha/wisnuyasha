@@ -10,9 +10,9 @@ A software engineer passionate about diving into new technologies and sharpening
  
  🔭 I’m currently working on **upgrading myself :D**
  
- 🌱 I’m currently learning on **Next, React, and LeetCode(coding)**
+ 🌱 I’m currently learning on **Next, React, Coding, System Design**
 
- 💬 I'm passionate about **Software Engineering, especially Frontend Development**
+ 💬 I'm passionate about **Software Engineering, especially Frontend**
 
  🔍 **Looking for Collaboration**, interested in teaming up for any project
 
