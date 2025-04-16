@@ -1,7 +1,7 @@
 <h3 align="center">Hello, I'm Wisnuyasha !</h3>
 
 <div align="center">
-Aspiring Frontend Engineer passionate about crafting fluid, seamless, and future-proof solutions to drive meaningful change in software engineering.
+A frontend engineer passionate about diving into new technologies and sharpening my expertise in frontend development. I aim to develop applications that are not only maintainable and scalable but also adhere to the highest standard of best practices, delivering an exceptional user and developer experience
 </div>
 
 <br/>
