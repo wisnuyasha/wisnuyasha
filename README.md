@@ -16,7 +16,7 @@ A frontend engineer passionate about diving into new technologies and sharpening
 
  🔍 **Looking for Collaboration**, interested in teaming up for any project
 
-  🌐 **Check out my website!** [wisnuyasha.com](https://wisnuyasha.com)
+  🌐 <strong>Check out my website!</strong> <a href="https://wisnuyasha.com" target="_blank" rel="noopener noreferrer">wisnuyasha.com</a>
 
  </div>
  
