@@ -10,7 +10,7 @@ A frontend engineer passionate about diving into new technologies and sharpening
  
  🔭 I’m currently working on **upgrading myself :D**
  
- 🌱 I’m currently learning on **Next, React, Coding, System Design**
+ 🌱 I’m currently learning on **Next, React, Coding, GO**
 
  💬 I'm passionate about **Software Engineering, especially Frontend**
 
